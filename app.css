@@ -128,3 +128,14 @@ input {
 input::placeholder {
   color: #aaa;
 }
+
+footer {
+    all: initial;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 1rem;
+}
+
+footer > p {
+    color: #56a5;
+}
