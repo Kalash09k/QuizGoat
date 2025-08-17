@@ -1,6 +1,5 @@
 #highScoresList {
-  list-style: none;
-  padding-left: 0;
+  padding: 2rem;
   margin-bottom: 4rem;
 }
 
@@ -11,4 +10,11 @@
 
 .high-score:hover {
   transform: scale(1.025);
+}
+
+.list {
+  padding: 4rem;
+  background-color: #56a2;
+  border-radius: 3rem;
+  margin-bottom: 4rem;
 }
